@@ -92,4 +92,8 @@ int main()
     cout << endl;
 
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7b2edb1d6cde28588ed6cf360402978955f7f784
